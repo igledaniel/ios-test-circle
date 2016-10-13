@@ -7,4 +7,4 @@ deployment:
   beta_distribution:
     branch: master
      commands:
-       - gym --scheme "ios-sdk" --workspace "ios-sdk.xcworkspace" --export_method ad-hoc
+       - gym
